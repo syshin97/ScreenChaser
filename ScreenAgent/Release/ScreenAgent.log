@@ -1,0 +1,36 @@
+﻿  CScreen.cpp
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(223,77): warning C4244:  '인수': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1402,95): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1407,28): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1407,18): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1417,54): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1417,36): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1417,19): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1417,11): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1416,96): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1418,97): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1425,40): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1425,30): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1426,37): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1427,43): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1427,30): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1475,96): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1480,29): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1480,19): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1490,54): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1490,36): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1490,20): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1490,12): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1489,97): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1491,98): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1498,41): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1498,31): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1499,38): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1500,44): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(1500,31): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  0 of 931 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ScreenAgent.vcxproj -> D:\haha\ScreenAgent\Release\ScreenAgent.exe

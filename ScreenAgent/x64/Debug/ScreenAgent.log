@@ -1,0 +1,6 @@
+﻿  BufferDC.cpp
+  ScreenAgentDlg.cpp
+D:\haha\ScreenAgent\ScreenAgent\BufferDC.cpp(77,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+D:\haha\ScreenAgent\ScreenAgent\ScreenAgentDlg.cpp(324,8): error C2664:  'LRESULT SendMessageTimeoutW(HWND,UINT,WPARAM,LPARAM,UINT,UINT,PDWORD_PTR)': 인수 7을(를) 'DWORD *'에서 'PDWORD_PTR'(으)로 변환할 수 없습니다.
+  코드를 생성하고 있습니다...
+D:\haha\ScreenAgent\ScreenAgent\ScreenAgentDlg.cpp(324,87): message :  가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.

@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  BufferDC.cpp
+  CRegistry.cpp
+  CScreen.cpp
+D:\haha\ScreenAgent\ScreenAgent\BufferDC.cpp(77,1): error C1010:  미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "pch.h"'을(를) 소스에 추가하시겠습니까?
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(204,36): warning C4267:  '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(913,28): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(913,17): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(923,77): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(923,59): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(923,25): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(923,10): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(922,95): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(924,96): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(931,39): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(931,29): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(932,36): warning C4244:  '인수': 'int'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(933,42): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(933,29): warning C4244:  '인수': 'double'에서 'Gdiplus::REAL'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(937,59): warning C4244:  '인수': 'double'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CSettingDlg.cpp
+  ScreenAgent.cpp
+  ScreenAgentDlg.cpp
+D:\haha\ScreenAgent\ScreenAgent\CScreen.cpp(937,56): warning C4244:  '인수': 'double'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\haha\ScreenAgent\ScreenAgent\ScreenAgentDlg.cpp(324,8): error C2664:  'LRESULT SendMessageTimeoutW(HWND,UINT,WPARAM,LPARAM,UINT,UINT,PDWORD_PTR)': 인수 7을(를) 'DWORD *'에서 'PDWORD_PTR'(으)로 변환할 수 없습니다.
+D:\haha\ScreenAgent\ScreenAgent\ScreenAgentDlg.cpp(324,87): message :  가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
